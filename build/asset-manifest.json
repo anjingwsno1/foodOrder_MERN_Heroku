@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.df09df2e.chunk.js",
+    "main.js.map": "/static/js/main.df09df2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.784c586e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.784c586e.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.66cd8bad.chunk.js": "/static/js/2.66cd8bad.chunk.js",
+    "static/js/2.66cd8bad.chunk.js.map": "/static/js/2.66cd8bad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3208fc5b820065b36f6edfd9521d9ea3.js": "/precache-manifest.3208fc5b820065b36f6edfd9521d9ea3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/js/2.66cd8bad.chunk.js.LICENSE.txt": "/static/js/2.66cd8bad.chunk.js.LICENSE.txt",
+    "static/media/3_Wicked_Wings.jpg": "/static/media/3_Wicked_Wings.b103f8cd.jpg",
+    "static/media/BBQ_Bacon_Stacker_Burger.jpg": "/static/media/BBQ_Bacon_Stacker_Burger.280d4396.jpg",
+    "static/media/Double_Tender_Burger.jpg": "/static/media/Double_Tender_Burger.7c4874a5.jpg",
+    "static/media/Original_Bacon_Cheese_Burger.jpg": "/static/media/Original_Bacon_Cheese_Burger.d5a3ca09.jpg",
+    "static/media/Popcorn_Chicken.jpg": "/static/media/Popcorn_Chicken.74581102.jpg",
+    "static/media/back1.jpg": "/static/media/back1.e20fcd0f.jpg",
+    "static/media/back2.jpg": "/static/media/back2.2e743fd2.jpg",
+    "static/media/back3.jpg": "/static/media/back3.5d650cdc.jpg",
+    "static/media/building1.jpg": "/static/media/building1.90586dd5.jpg",
+    "static/media/building2.jpg": "/static/media/building2.60e1399a.jpg",
+    "static/media/chicken.png": "/static/media/chicken.08469ab5.png",
+    "static/media/chips.jpg": "/static/media/chips.24e58055.jpg",
+    "static/media/logo.jpg": "/static/media/logo.4b0d0b83.jpg",
+    "static/media/mdew.jpg": "/static/media/mdew.7c4882da.jpg",
+    "static/media/ocean.jpg": "/static/media/ocean.ed849019.jpg",
+    "static/media/orange_juice.jpg": "/static/media/orange_juice.234df199.jpg",
+    "static/media/pepsi.jpg": "/static/media/pepsi.1264eea4.jpg",
+    "static/media/wedding1.jpg": "/static/media/wedding1.50da047e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784c586e.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.66cd8bad.chunk.js",
+    "static/js/main.df09df2e.chunk.js"
+  ]
+}
