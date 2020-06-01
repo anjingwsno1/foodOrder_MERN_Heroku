@@ -7,7 +7,6 @@ const db = require("./db");
 const cakeRouter = require("./routes/index.js");
 
 const app = express();
-const apiPort = 3000;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cors());
@@ -27,4 +26,4 @@ app.get("/", (req, res) => {
 
 app.use("/api", cakeRouter);
 
-app.listen(apiPort, () => console.log(`Server running on port ${apiPort}`));
+app.listen(process.env.PORT || 3000);
